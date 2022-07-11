@@ -1,0 +1,11 @@
+debug/form.o
+debug/formforname.o
+debug/formload.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/moc_form.o
+debug/moc_formforname.o
+debug/moc_formload.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o

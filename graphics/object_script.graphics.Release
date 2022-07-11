@@ -1,0 +1,11 @@
+release/form.o
+release/formforname.o
+release/formload.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/moc_form.o
+release/moc_formforname.o
+release/moc_formload.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
